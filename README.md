@@ -31,6 +31,22 @@
 
 ---
 
+## 📸 Photo Gallery
+
+<div style="display: flex; overflow-x: auto; gap: 10px; padding-bottom: 10px;">
+    <img src="images/hero.jpg" alt="Hero" height="500" style="border-radius: 10px;">
+    <img src="images/gallery-1.jpg" alt="Gallery 1" height="500" style="border-radius: 10px;">
+    <img src="images/gallery-2.jpg" alt="Gallery 2" height="500" style="border-radius: 10px;">
+    <img src="images/gallery-3.jpg" alt="Gallery 3" height="500" style="border-radius: 10px;">
+    <img src="images/gallery-4.jpg" alt="Gallery 4" height="500" style="border-radius: 10px;">
+    <img src="images/gallery-5.jpg" alt="Gallery 5" height="500" style="border-radius: 10px;">
+    <img src="images/gallery-6.jpg" alt="Gallery 6" height="500" style="border-radius: 10px;">
+    <img src="images/gallery-7.jpg" alt="Gallery 7" height="500" style="border-radius: 10px;">
+    <img src="images/gallery-8.jpg" alt="Gallery 8" height="500" style="border-radius: 10px;">
+</div>
+
+---
+
 ## 💡 What Problem Does It Solve?
 
 In the professional wedding and event industry, **First Response Time** is the most critical factor in winning a deal. This platform addresses two major pain points:

@@ -1,10 +1,10 @@
 import os
 
 # API Config
-GEMINI_API_KEY = "AIzaSyAlxn-CRF4--A_UjAE8OWUA9qRE1botds0"
-GOOGLE_CALENDAR_ID = "0398ab0989c06269614f758a972f2b7aa5fff25615ba2349a747c030447b1688@group.calendar.google.com" 
+GEMINI_API_KEY = "your_gemini_api_key_here"
+GOOGLE_CALENDAR_ID = "your_calendar_id_here@group.calendar.google.com" 
 CREDENTIALS_FILE = os.path.join(os.path.dirname(__file__), "credentials.json")
-STATIC_MEET_LINK = "https://meet.google.com/xjx-vdzp-gwk" 
+STATIC_MEET_LINK = "https://meet.google.com/your-meet-link" 
 
 # Timezone Config (Adapted for User Location)
 TIMEZONE = "Asia/Kolkata" 
@@ -13,8 +13,8 @@ UTC_OFFSET = "+05:30" # Indian Standard Time
 # SMTP / Email Config
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
-SMTP_EMAIL = "samir.lade6@gmail.com"  
-SMTP_PASSWORD = "zjas wdwc lulu vohk"  
+SMTP_EMAIL = "your_email@gmail.com"  
+SMTP_PASSWORD = "your_app_password_here"  
 
 EMAIL_SUBJECT = "Confirmation: Your Visit to Grand Oak Estates"
 EMAIL_TEMPLATE_HTML = """
