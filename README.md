@@ -2,7 +2,7 @@
 
 # 💍 AI Wedding & Event Lead Management Agent
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Platform-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://Sam-Dev-AI.github.io/Wedding-Agent/)
+   
   
 *A High-Speed, RAG-Powered AI Agent for Instant Lead Conversion and Booking*
 
@@ -25,24 +25,10 @@
 ## 📽️ Project Demonstration
 
 <div align="center">
-    <video src="Video/demo.mp4" width="100%" controls style="border-radius: 10px; border: 1px solid #333;"></video>
-    <p><i>Watch the AI Agent in action: Handling leads and booking meetings in real-time.</i></p>
-</div>
-
----
-
-## 📸 Photo Gallery
-
-<div style="display: flex; overflow-x: auto; gap: 10px; padding-bottom: 10px;">
-    <img src="images/hero.jpg" alt="Hero" height="500" style="border-radius: 10px;">
-    <img src="images/gallery-1.jpg" alt="Gallery 1" height="500" style="border-radius: 10px;">
-    <img src="images/gallery-2.jpg" alt="Gallery 2" height="500" style="border-radius: 10px;">
-    <img src="images/gallery-3.jpg" alt="Gallery 3" height="500" style="border-radius: 10px;">
-    <img src="images/gallery-4.jpg" alt="Gallery 4" height="500" style="border-radius: 10px;">
-    <img src="images/gallery-5.jpg" alt="Gallery 5" height="500" style="border-radius: 10px;">
-    <img src="images/gallery-6.jpg" alt="Gallery 6" height="500" style="border-radius: 10px;">
-    <img src="images/gallery-7.jpg" alt="Gallery 7" height="500" style="border-radius: 10px;">
-    <img src="images/gallery-8.jpg" alt="Gallery 8" height="500" style="border-radius: 10px;">
+    <a href="https://drive.google.com/open?id=140_PyFa-TOyVh0SSBN7HFknJaTjREVwi&usp=drive_fs" target="_blank">
+        <img src="https://img.shields.io/badge/🎥_Watch_Demo_Video-Google_Drive-red?style=for-the-badge&logo=google-drive&logoColor=white" alt="Watch Demo Video">
+    </a>
+    <p><i>Click above to watch the AI Agent in action: Handling leads and booking meetings in real-time.</i></p>
 </div>
 
 ---
