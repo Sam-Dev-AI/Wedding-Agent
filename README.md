@@ -22,6 +22,17 @@
 
 ---
 
+## 📽️ Project Demonstration
+
+<div align="center">
+    <a href="https://drive.google.com/open?id=140_PyFa-TOyVh0SSBN7HFknJaTjREVwi&usp=drive_fs" target="_blank">
+        <img src="https://img.shields.io/badge/🎥_Watch_Demo_Video-Google_Drive-red?style=for-the-badge&logo=google-drive&logoColor=white" alt="Watch Demo Video">
+    </a>
+    <p><i>Click above to watch the AI Agent in action: Handling leads and booking meetings in real-time.</i></p>
+</div>
+
+---
+
 ## 📸 Visual Walkthrough & Features
 
 Experience the seamless journey from inquiry to confirmed booking.
@@ -34,13 +45,13 @@ Experience the seamless journey from inquiry to confirmed booking.
 
 ### 2. Instant Lead Engagement
 <div align="center">
-    <img src="images/Screenshot%202026-02-08%20174323.jpg" alt="User Inquiry" width="600">
+    <img src="images/Screenshot%202026-02-08%20174139.jpg" alt="User Inquiry" width="600">
 </div>
 <p align="center"><i>As soon as a potential client reaches out, the AI responds instantly, ensuring no lead is left waiting. The agent introduces itself professionally and begins the qualification process.</i></p>
 
 ### 3. Intelligent Conversation & RAG
 <div align="center">
-    <img src="images/Screenshot%202026-02-08%20174139.jpg" alt="AI Conversation" width="600">
+    <img src="images/Screenshot%202026-02-08%20174323.jpg" alt="AI Conversation" width="600">
 </div>
 <p align="center"><i>Using simple natural language, the agent answers complex questions about services and pricing by retrieving accurate data from your knowledge base.</i></p>
 
@@ -68,14 +79,7 @@ Experience the seamless journey from inquiry to confirmed booking.
 
 ---
 
-## 📽️ Project Demonstration
 
-<div align="center">
-    <a href="https://drive.google.com/open?id=140_PyFa-TOyVh0SSBN7HFknJaTjREVwi&usp=drive_fs" target="_blank">
-        <img src="https://img.shields.io/badge/🎥_Watch_Demo_Video-Google_Drive-red?style=for-the-badge&logo=google-drive&logoColor=white" alt="Watch Demo Video">
-    </a>
-    <p><i>Click above to watch the AI Agent in action: Handling leads and booking meetings in real-time.</i></p>
-</div>
 
 ---
 
