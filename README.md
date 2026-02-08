@@ -49,13 +49,13 @@ Experience the seamless journey from inquiry to confirmed booking.
 </div>
 <p align="center"><i>As soon as a potential client reaches out, the AI responds instantly, ensuring no lead is left waiting. The agent introduces itself professionally and begins the qualification process.</i></p>
 
-### 3. Intelligent Conversation & RAG
+### 3. Smart Availability Check
 <div align="center">
     <img src="images/Screenshot%202026-02-08%20174323.jpg" alt="AI Conversation" width="600">
 </div>
 <p align="center"><i>Using simple natural language, the agent answers complex questions about services and pricing by retrieving accurate data from your knowledge base.</i></p>
 
-### 4. Smart Availability Check
+### 4. Collecting Info and Booking Meeting
 <div align="center">
     <img src="images/Screenshot%202026-02-08%20174549.jpg" alt="Availability Check" width="600">
 </div>
