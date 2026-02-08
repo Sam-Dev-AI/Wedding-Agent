@@ -64,14 +64,7 @@ Experience the seamless journey from inquiry to confirmed booking.
 
 ---
 
-## 📽️ Project Demonstration
 
-<div align="center">
-    <a href="https://drive.google.com/open?id=140_PyFa-TOyVh0SSBN7HFknJaTjREVwi&usp=drive_fs" target="_blank">
-        <img src="https://img.shields.io/badge/🎥_Watch_Demo_Video-Google_Drive-red?style=for-the-badge&logo=google-drive&logoColor=white" alt="Watch Demo Video">
-    </a>
-    <p><i>Click above to watch the AI Agent in action: Handling leads and booking meetings in real-time.</i></p>
-</div>
 
 ---
 
